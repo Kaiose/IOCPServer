@@ -1,0 +1,3323 @@
+6 월 4 일 13 시 12 분Room Number : 1	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 0		Receiving Packet Quantity : 0		Total Quantity : 0
+
+6 월 4 일 13 시 12 분Room Number : 2	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 0		Receiving Packet Quantity : 0		Total Quantity : 0
+
+6 월 4 일 13 시 12 분Room Number : 3	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 0		Receiving Packet Quantity : 0		Total Quantity : 0
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2252, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2248, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2244, sessionId : 0 
+
+6 월 4 일 13 시 12 분Server Start
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2240, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2236, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2232, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2228, sessionId : 103 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2224, sessionId : 104 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2220, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2216, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2212, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2208, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2204, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2200, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2196, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2192, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2188, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2184, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2180, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2176, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2172, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2168, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2164, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2160, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2156, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2152, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2148, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2144, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2140, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2132, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2136, sessionId : 126 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2128, sessionId : 128 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2124, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2120, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2116, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2112, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2108, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2104, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2100, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2096, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2092, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2088, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2084, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2080, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2076, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2072, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2068, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2064, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2060, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2056, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2052, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2044, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2040, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2036, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2032, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2028, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2024, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2020, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2016, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2012, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2008, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2004, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 2000, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1996, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1992, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1988, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1984, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1980, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1976, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1972, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1968, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1964, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1960, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1956, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1952, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1948, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1944, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1940, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1936, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1932, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1928, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1924, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1920, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1916, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1912, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1908, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1904, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1900, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1896, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1892, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1888, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1884, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1880, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1876, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1872, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1868, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1864, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1860, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1856, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1852, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1848, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1844, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1840, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1836, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1832, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1828, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1824, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1820, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1816, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1812, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1808, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1804, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1800, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1796, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1792, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1788, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1784, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1780, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1776, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1772, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1768, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1764, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1756, sessionId : 220 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1752, sessionId : 221 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1760, sessionId : 219 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1748, sessionId : 222 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1744, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1740, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1736, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1732, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1728, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1724, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1720, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1716, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1712, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1708, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1704, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1700, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1696, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1692, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1688, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1684, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1680, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1676, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1672, sessionId : 0 
+
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1668, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1664, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1660, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1656, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1652, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1648, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1644, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1640, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1636, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1632, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1628, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1624, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1620, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1616, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1612, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1608, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1604, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1600, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1596, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1592, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1588, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1584, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1580, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1576, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1572, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1568, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1564, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1560, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1556, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1552, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1548, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1544, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1540, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1536, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1532, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1528, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1524, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1520, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1516, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1512, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1508, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1504, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1500, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1496, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1492, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1488, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1484, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1480, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1476, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1472, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1468, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1464, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1460, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1456, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1452, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1448, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1444, sessionId : 0 
+
+6 월 4 일 13 시 12 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 12 분IO_ACCEPT socket Number : 1440, sessionId : 0 
+
+6 월 4 일 13 시 13 분Room Number : 1	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 264		Receiving Packet Quantity : 5280		Total Quantity : 5280
+
+6 월 4 일 13 시 13 분Room Number : 2	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 268		Receiving Packet Quantity : 5360		Total Quantity : 5360
+
+6 월 4 일 13 시 13 분Room Number : 3	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 268		Receiving Packet Quantity : 5360		Total Quantity : 5360
+
+6 월 4 일 13 시 13 분Load Generation!! RoomNumber : 2	  Higher Room Packet Quantity  : 5360	 Total Packet Quantity : 16000 
+
+6 월 4 일 13 시 13 분RECEIVE T_ANS_LOAD
+
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 9
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 65
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 1
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 2
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 3
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 4
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 124  roomNumber : 2  userNumber : 9
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 5
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 100  roomNumber : 2  userNumber : 1
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 6
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 7
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 8
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 10
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 292  roomNumber : 2  userNumber : 65
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 11
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 103  roomNumber : 2  userNumber : 2
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 12
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 13
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 14
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 15
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 16
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 17
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 18
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 19
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 20
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 21
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 22
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 23
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 24
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 25
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 26
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 27
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 28
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 29
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 30
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 31
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 32
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 33
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 34
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 35
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 36
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 37
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 38
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 39
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 40
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 41
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 42
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 43
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 44
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 45
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 46
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 47
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 48
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 49
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 50
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 51
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 52
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 53
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 54
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 55
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 56
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 57
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 58
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 59
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 60
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 61
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 62
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 63
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 64
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 66
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 2 userNumber : 67
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 9 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 106  roomNumber : 2  userNumber : 3
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 1 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 109  roomNumber : 2  userNumber : 4
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 112  roomNumber : 2  userNumber : 5
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 65 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 115  roomNumber : 2  userNumber : 6
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 118  roomNumber : 2  userNumber : 7
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 121  roomNumber : 2  userNumber : 8
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 127  roomNumber : 2  userNumber : 10
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 136  roomNumber : 2  userNumber : 13
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 2 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 142  roomNumber : 2  userNumber : 15
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 130  roomNumber : 2  userNumber : 11
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 139  roomNumber : 2  userNumber : 14
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 151  roomNumber : 2  userNumber : 18
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 160  roomNumber : 2  userNumber : 21
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 148  roomNumber : 2  userNumber : 17
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 3 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 163  roomNumber : 2  userNumber : 22
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 157  roomNumber : 2  userNumber : 20
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 154  roomNumber : 2  userNumber : 19
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 169  roomNumber : 2  userNumber : 24
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 4 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 172  roomNumber : 2  userNumber : 25
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 5 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 166  roomNumber : 2  userNumber : 23
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 6 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 7 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 178  roomNumber : 2  userNumber : 27
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 8 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 10 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 11 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 15 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 145  roomNumber : 2  userNumber : 16
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 13 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 14 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 18 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 175  roomNumber : 2  userNumber : 26
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 19 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 17 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 21 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 187  roomNumber : 2  userNumber : 30
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 181  roomNumber : 2  userNumber : 28
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 22 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 184  roomNumber : 2  userNumber : 29
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 20 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 196  roomNumber : 2  userNumber : 33
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 190  roomNumber : 2  userNumber : 31
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 24 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 193  roomNumber : 2  userNumber : 32
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 25 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 205  roomNumber : 2  userNumber : 36
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 199  roomNumber : 2  userNumber : 34
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 23 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 202  roomNumber : 2  userNumber : 35
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 214  roomNumber : 2  userNumber : 39
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 208  roomNumber : 2  userNumber : 37
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 27 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 223  roomNumber : 2  userNumber : 42
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 211  roomNumber : 2  userNumber : 38
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 217  roomNumber : 2  userNumber : 40
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 220  roomNumber : 2  userNumber : 41
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 16 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 232  roomNumber : 2  userNumber : 45
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 226  roomNumber : 2  userNumber : 43
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 229  roomNumber : 2  userNumber : 44
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 28 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 241  roomNumber : 2  userNumber : 48
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 235  roomNumber : 2  userNumber : 46
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 30 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 238  roomNumber : 2  userNumber : 47
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 26 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 250  roomNumber : 2  userNumber : 51
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 29 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 33 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 244  roomNumber : 2  userNumber : 49
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 247  roomNumber : 2  userNumber : 50
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 31 
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 259  roomNumber : 2  userNumber : 54
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 32 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 36 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 253  roomNumber : 2  userNumber : 52
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 34 
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 256  roomNumber : 2  userNumber : 53
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 35 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 39 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 268  roomNumber : 2  userNumber : 57
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 37 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 262  roomNumber : 2  userNumber : 55
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 38 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 45 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 40 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 41 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 265  roomNumber : 2  userNumber : 56
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 277  roomNumber : 2  userNumber : 60
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 44 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 43 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 48 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 271  roomNumber : 2  userNumber : 58
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 51 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 46 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 283  roomNumber : 2  userNumber : 62
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 286  roomNumber : 2  userNumber : 63
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 47 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 280  roomNumber : 2  userNumber : 61
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 295  roomNumber : 2  userNumber : 66
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 50 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 49 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 298  roomNumber : 2  userNumber : 67
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 289  roomNumber : 2  userNumber : 64
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 52 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 274  roomNumber : 2  userNumber : 59
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 54 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 133  roomNumber : 2  userNumber : 12
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 55 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 53 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 57 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 42 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 56 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 60 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 58 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 62 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 63 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 61 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 66 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 67 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 64 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 59 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 12 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 13 분IO_ACCEPT socket Number : 1436, sessionId : 0 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 1  roomNumber : 2  userNumber : -2
+6 월 4 일 13 시 13 분receive 0 byte
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 0 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 13 분IO_ACCEPT socket Number : 1432, sessionId : 0 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 99  roomNumber : 2  userNumber : -2
+6 월 4 일 13 시 13 분receive 0 byte
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 0 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분Room Number : 1	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 396		Receiving Packet Quantity : 7920		Total Quantity : 7920
+
+6 월 4 일 13 시 13 분Room Number : 3	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 402		Receiving Packet Quantity : 8040		Total Quantity : 8040
+
+6 월 4 일 13 시 13 분Load Generation!! RoomNumber : 3	  Higher Room Packet Quantity  : 8040	 Total Packet Quantity : 15960 
+
+6 월 4 일 13 시 13 분RECEIVE T_ANS_LOAD
+
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 9
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 65
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 1
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 2
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 125  roomNumber : 3  userNumber : 9
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 3
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 4
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 5
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 293  roomNumber : 3  userNumber : 65
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 6
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 7
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 8
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 101  roomNumber : 3  userNumber : 1
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 10
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 11
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 12
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 13
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 14
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 15
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 16
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 17
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 18
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 19
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 20
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 21
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 22
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 23
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 24
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 25
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 26
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 27
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 28
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 29
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 30
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 31
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 32
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 33
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 34
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 35
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 36
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 37
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 38
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 39
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 40
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 41
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 42
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 43
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 44
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 45
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 46
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 47
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 48
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 49
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 50
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 51
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 52
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 53
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 54
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 55
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 56
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 57
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 58
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 59
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 60
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 61
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 62
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 63
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 64
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 66
+6 월 4 일 13 시 13 분SEND T_NOTIFY_USER !! roomNumber : 3 userNumber : 67
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 9 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 104  roomNumber : 3  userNumber : 2
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 107  roomNumber : 3  userNumber : 3
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 110  roomNumber : 3  userNumber : 4
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 65 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 113  roomNumber : 3  userNumber : 5
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 128  roomNumber : 3  userNumber : 10
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 119  roomNumber : 3  userNumber : 7
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 122  roomNumber : 3  userNumber : 8
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 116  roomNumber : 3  userNumber : 6
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 1 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 131  roomNumber : 3  userNumber : 11
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 134  roomNumber : 3  userNumber : 12
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 137  roomNumber : 3  userNumber : 13
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 140  roomNumber : 3  userNumber : 14
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 146  roomNumber : 3  userNumber : 16
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 161  roomNumber : 3  userNumber : 21
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 149  roomNumber : 3  userNumber : 17
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 152  roomNumber : 3  userNumber : 18
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 155  roomNumber : 3  userNumber : 19
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 2 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 158  roomNumber : 3  userNumber : 20
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 170  roomNumber : 3  userNumber : 24
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 3 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 4 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 173  roomNumber : 3  userNumber : 25
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 5 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 10 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 7 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 167  roomNumber : 3  userNumber : 23
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 8 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 6 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 179  roomNumber : 3  userNumber : 27
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 11 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 182  roomNumber : 3  userNumber : 28
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 176  roomNumber : 3  userNumber : 26
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 12 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 14 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 16 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 18 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 188  roomNumber : 3  userNumber : 30
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 13 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 191  roomNumber : 3  userNumber : 31
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 17 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 24 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 19 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 185  roomNumber : 3  userNumber : 29
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 197  roomNumber : 3  userNumber : 33
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 20 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 200  roomNumber : 3  userNumber : 34
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 194  roomNumber : 3  userNumber : 32
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 206  roomNumber : 3  userNumber : 36
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 21 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 209  roomNumber : 3  userNumber : 37
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 203  roomNumber : 3  userNumber : 35
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 25 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 215  roomNumber : 3  userNumber : 39
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 218  roomNumber : 3  userNumber : 40
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 28 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 27 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 212  roomNumber : 3  userNumber : 38
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 224  roomNumber : 3  userNumber : 42
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 227  roomNumber : 3  userNumber : 43
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 23 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 221  roomNumber : 3  userNumber : 41
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 233  roomNumber : 3  userNumber : 45
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 26 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 236  roomNumber : 3  userNumber : 46
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 230  roomNumber : 3  userNumber : 44
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 30 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 242  roomNumber : 3  userNumber : 48
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 31 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 29 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 245  roomNumber : 3  userNumber : 49
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 33 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 239  roomNumber : 3  userNumber : 47
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 34 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 32 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 251  roomNumber : 3  userNumber : 51
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 36 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 254  roomNumber : 3  userNumber : 52
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 248  roomNumber : 3  userNumber : 50
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 37 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 260  roomNumber : 3  userNumber : 54
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 35 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 263  roomNumber : 3  userNumber : 55
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 39 
+
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 64
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 40 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 257  roomNumber : 3  userNumber : 53
+6 월 4 일 13 시 13 분Server ExceptionProcess!!
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 38 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 42 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 269  roomNumber : 3  userNumber : 57
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 43 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 41 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 272  roomNumber : 3  userNumber : 58
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 45 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 266  roomNumber : 3  userNumber : 56
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 46 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 278  roomNumber : 3  userNumber : 60
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 281  roomNumber : 3  userNumber : 61
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 44 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 275  roomNumber : 3  userNumber : 59
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 48 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 287  roomNumber : 3  userNumber : 63
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 49 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 290  roomNumber : 3  userNumber : 64
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 284  roomNumber : 3  userNumber : 62
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 47 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 299  roomNumber : 3  userNumber : 67
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 51 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 164  roomNumber : 3  userNumber : 22
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 55 
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 50 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 296  roomNumber : 3  userNumber : 66
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 143  roomNumber : 3  userNumber : 15
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 54 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 52 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 53 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 57 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 58 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 56 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 60 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 61 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 59 
+
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 63 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 64 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 62 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 67 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 22 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 66 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 3 , UserNumber : 15 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분GQCS Error 1236
+6 월 4 일 13 시 13 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분Delete User not exist
+
+6 월 4 일 13 시 13 분T_NOTIFY_USE::  accountId : 99  roomNumber : 1  userNumber : -2
+6 월 4 일 13 시 13 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 13 분IO_ACCEPT socket Number : 1428, sessionId : 0 
+
+6 월 4 일 13 시 13 분IsExistUser !! accountId : 99, roomNumber 1 , userNumber : 67
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 99  roomNumber : 4  userNumber : -2
+6 월 4 일 13 시 13 분receive 0 byte
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 67 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 13 분Delete User not exist
+
+6 월 4 일 13 시 13 분T_NOTIFY_USE::  accountId : 99  roomNumber : 1  userNumber : -2
+6 월 4 일 13 시 13 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 13 분IsExistUser !! accountId : 99, roomNumber 1 , userNumber : 68
+6 월 4 일 13 시 13 분IO_ACCEPT socket Number : 1424, sessionId : 99 
+
+6 월 4 일 13 시 13 분T_ANS_USER::  accountId : 99  roomNumber : 2  userNumber : -2
+6 월 4 일 13 시 13 분receive 0 byte
+
+6 월 4 일 13 시 13 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 68 
+
+6 월 4 일 13 시 13 분Userdelete
+
+6 월 4 일 13 시 14 분Room Number : 1	Sending Packet Count : 253		Sending Packet Quantity : 3795	Receiving Packet Count : 412		Receiving Packet Quantity : 8240		Total Quantity : 12035
+
+6 월 4 일 13 시 14 분Load Generation!! RoomNumber : 1	  Higher Room Packet Quantity  : 12035	 Total Packet Quantity : 12035 
+
+6 월 4 일 13 시 14 분RECEIVE T_ANS_LOAD
+
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 9
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 65
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 1
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 2
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 3
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 4
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 294  roomNumber : 1  userNumber : 65
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 5
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 6
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 7
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 126  roomNumber : 1  userNumber : 9
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 8
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 10
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 102  roomNumber : 1  userNumber : 1
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 11
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 12
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 13
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 14
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 15
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 16
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 17
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 18
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 19
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 20
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 21
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 22
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 23
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 24
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 25
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 26
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 27
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 28
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 29
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 30
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 31
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 32
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 33
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 34
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 35
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 36
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 37
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 38
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 39
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 40
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 41
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 42
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 43
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 44
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 45
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 46
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 47
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 48
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 49
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 50
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 51
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 52
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 53
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 54
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 55
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 56
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 57
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 58
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 59
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 60
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 61
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 62
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 63
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 64
+6 월 4 일 13 시 14 분SEND T_NOTIFY_USER !! roomNumber : 1 userNumber : 66
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 65 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 105  roomNumber : 1  userNumber : 2
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 108  roomNumber : 1  userNumber : 3
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 9 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 120  roomNumber : 1  userNumber : 7
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 114  roomNumber : 1  userNumber : 5
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 132  roomNumber : 1  userNumber : 11
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 129  roomNumber : 1  userNumber : 10
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 123  roomNumber : 1  userNumber : 8
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 1 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 138  roomNumber : 1  userNumber : 13
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 141  roomNumber : 1  userNumber : 14
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 135  roomNumber : 1  userNumber : 12
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 147  roomNumber : 1  userNumber : 16
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 150  roomNumber : 1  userNumber : 17
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 144  roomNumber : 1  userNumber : 15
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 153  roomNumber : 1  userNumber : 18
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 156  roomNumber : 1  userNumber : 19
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 2 
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 165  roomNumber : 1  userNumber : 22
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 159  roomNumber : 1  userNumber : 20
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 168  roomNumber : 1  userNumber : 23
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 162  roomNumber : 1  userNumber : 21
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 174  roomNumber : 1  userNumber : 25
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 3 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분RECEIVE T_ASK_LOAD
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 7 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 5 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 10 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 11 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 177  roomNumber : 1  userNumber : 26
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 12 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 13 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 171  roomNumber : 1  userNumber : 24
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 183  roomNumber : 1  userNumber : 28
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 14 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 186  roomNumber : 1  userNumber : 29
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 8 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 17 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 16 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 15 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 20 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 19 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 18 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 180  roomNumber : 1  userNumber : 27
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 22 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 23 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 192  roomNumber : 1  userNumber : 31
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 21 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 195  roomNumber : 1  userNumber : 32
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 189  roomNumber : 1  userNumber : 30
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 201  roomNumber : 1  userNumber : 34
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 204  roomNumber : 1  userNumber : 35
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 198  roomNumber : 1  userNumber : 33
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 25 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 210  roomNumber : 1  userNumber : 37
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 26 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 213  roomNumber : 1  userNumber : 38
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 207  roomNumber : 1  userNumber : 36
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 24 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 219  roomNumber : 1  userNumber : 40
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 222  roomNumber : 1  userNumber : 41
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 228  roomNumber : 1  userNumber : 43
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 28 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 231  roomNumber : 1  userNumber : 44
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 216  roomNumber : 1  userNumber : 39
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 225  roomNumber : 1  userNumber : 42
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 237  roomNumber : 1  userNumber : 46
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 27 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 240  roomNumber : 1  userNumber : 47
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 243  roomNumber : 1  userNumber : 48
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 246  roomNumber : 1  userNumber : 49
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 249  roomNumber : 1  userNumber : 50
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 32 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 234  roomNumber : 1  userNumber : 45
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 31 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 33 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 30 
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 34 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 29 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 255  roomNumber : 1  userNumber : 52
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 258  roomNumber : 1  userNumber : 53
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 35 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 252  roomNumber : 1  userNumber : 51
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 37 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 38 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 264  roomNumber : 1  userNumber : 55
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 267  roomNumber : 1  userNumber : 56
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 39 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 40 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 41 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 261  roomNumber : 1  userNumber : 54
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 36 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 273  roomNumber : 1  userNumber : 58
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 43 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 44 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 46 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 42 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 276  roomNumber : 1  userNumber : 59
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 270  roomNumber : 1  userNumber : 57
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 47 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 48 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 282  roomNumber : 1  userNumber : 61
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 285  roomNumber : 1  userNumber : 62
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 50 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 288  roomNumber : 1  userNumber : 63
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 291  roomNumber : 1  userNumber : 64
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 279  roomNumber : 1  userNumber : 60
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 297  roomNumber : 1  userNumber : 66
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 49 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 45 
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 117  roomNumber : 1  userNumber : 6
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 52 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분T_ANS_USER::  accountId : 111  roomNumber : 1  userNumber : 4
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 53 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 51 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 55 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 56 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 54 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 58 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 59 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 57 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 61 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 62 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 63 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 64 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 66 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 60 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 6 
+
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 1 , UserNumber : 4 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 1236
+6 월 4 일 13 시 14 분GQCS  Last Error : 1236
+
+6 월 4 일 13 시 14 분RECEIVE T_ASK_LOAD
+
+6 월 4 일 13 시 14 분RECEIVE T_NOTIFY_ROOM : 2
+
+6 월 4 일 13 시 14 분Room Number : 2	Sending Packet Count : 0		Sending Packet Quantity : 0	Receiving Packet Count : 0		Receiving Packet Quantity : 0		Total Quantity : 0
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 100  roomNumber : 2  userNumber : 1
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 292  roomNumber : 2  userNumber : 65
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 103  roomNumber : 2  userNumber : 2
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 295  roomNumber : 2  userNumber : 66
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 124  roomNumber : 2  userNumber : 9
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 298  roomNumber : 2  userNumber : 67
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 106  roomNumber : 2  userNumber : 3
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 109  roomNumber : 2  userNumber : 4
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 112  roomNumber : 2  userNumber : 5
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 115  roomNumber : 2  userNumber : 6
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 118  roomNumber : 2  userNumber : 7
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 142  roomNumber : 2  userNumber : 15
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 127  roomNumber : 2  userNumber : 10
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 130  roomNumber : 2  userNumber : 11
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 121  roomNumber : 2  userNumber : 8
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 136  roomNumber : 2  userNumber : 13
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 139  roomNumber : 2  userNumber : 14
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 151  roomNumber : 2  userNumber : 18
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 154  roomNumber : 2  userNumber : 19
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 148  roomNumber : 2  userNumber : 17
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 160  roomNumber : 2  userNumber : 21
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 172  roomNumber : 2  userNumber : 25
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 157  roomNumber : 2  userNumber : 20
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 178  roomNumber : 2  userNumber : 27
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 163  roomNumber : 2  userNumber : 22
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 166  roomNumber : 2  userNumber : 23
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 187  roomNumber : 2  userNumber : 30
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 145  roomNumber : 2  userNumber : 16
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 184  roomNumber : 2  userNumber : 29
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 196  roomNumber : 2  userNumber : 33
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 181  roomNumber : 2  userNumber : 28
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 193  roomNumber : 2  userNumber : 32
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 169  roomNumber : 2  userNumber : 24
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 190  roomNumber : 2  userNumber : 31
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 202  roomNumber : 2  userNumber : 35
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 205  roomNumber : 2  userNumber : 36
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 199  roomNumber : 2  userNumber : 34
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 211  roomNumber : 2  userNumber : 38
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 214  roomNumber : 2  userNumber : 39
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 208  roomNumber : 2  userNumber : 37
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 220  roomNumber : 2  userNumber : 41
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 223  roomNumber : 2  userNumber : 42
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 217  roomNumber : 2  userNumber : 40
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 229  roomNumber : 2  userNumber : 44
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 232  roomNumber : 2  userNumber : 45
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 226  roomNumber : 2  userNumber : 43
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 238  roomNumber : 2  userNumber : 47
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 241  roomNumber : 2  userNumber : 48
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 235  roomNumber : 2  userNumber : 46
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 247  roomNumber : 2  userNumber : 50
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 250  roomNumber : 2  userNumber : 51
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 244  roomNumber : 2  userNumber : 49
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 256  roomNumber : 2  userNumber : 53
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 259  roomNumber : 2  userNumber : 54
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 253  roomNumber : 2  userNumber : 52
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 265  roomNumber : 2  userNumber : 56
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 268  roomNumber : 2  userNumber : 57
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 262  roomNumber : 2  userNumber : 55
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 283  roomNumber : 2  userNumber : 62
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 277  roomNumber : 2  userNumber : 60
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 271  roomNumber : 2  userNumber : 58
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 289  roomNumber : 2  userNumber : 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 286  roomNumber : 2  userNumber : 63
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 280  roomNumber : 2  userNumber : 61
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 1  roomNumber : 2  userNumber : 68
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 274  roomNumber : 2  userNumber : 59
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 133  roomNumber : 2  userNumber : 12
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 175  roomNumber : 2  userNumber : 26
+6 월 4 일 13 시 14 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1420, sessionId : 0 
+
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 1, roomNumber 2 , userNumber : 68
+6 월 4 일 13 시 14 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1416, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 100, roomNumber 2 , userNumber : 1
+6 월 4 일 13 시 14 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 103, roomNumber 2 , userNumber : 2
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 106, roomNumber 2 , userNumber : 3
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 109, roomNumber 2 , userNumber : 4
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1412, sessionId : 103 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1408, sessionId : 106 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1404, sessionId : 109 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1400, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1396, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1392, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1388, sessionId : 0 
+
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1384, sessionId : 0 
+
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 112, roomNumber 2 , userNumber : 5
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1380, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1376, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1372, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1368, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1364, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1360, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1356, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1352, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1348, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1344, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1340, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1336, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1332, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1328, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1324, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1320, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1316, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1312, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1308, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1304, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1300, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1296, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1292, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1288, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1284, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1280, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1276, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1272, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1268, sessionId : 0 
+
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1264, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 115, roomNumber 2 , userNumber : 6
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1260, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1256, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1252, sessionId : 0 
+
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1248, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1244, sessionId : 0 
+
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1240, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1236, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 121, roomNumber 2 , userNumber : 8
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 118, roomNumber 2 , userNumber : 7
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1232, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1228, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1224, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1220, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1216, sessionId : 0 
+
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1212, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1208, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1204, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1200, sessionId : 0 
+
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1196, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 130, roomNumber 2 , userNumber : 11
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1192, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 124, roomNumber 2 , userNumber : 9
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 127, roomNumber 2 , userNumber : 10
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 139, roomNumber 2 , userNumber : 14
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 136, roomNumber 2 , userNumber : 13
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1188, sessionId : 0 
+
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1184, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 142, roomNumber 2 , userNumber : 15
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 154, roomNumber 2 , userNumber : 19
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1180, sessionId : 0 
+
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 151, roomNumber 2 , userNumber : 18
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 148, roomNumber 2 , userNumber : 17
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 157, roomNumber 2 , userNumber : 20
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1176, sessionId : 0 
+
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 160, roomNumber 2 , userNumber : 21
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 163, roomNumber 2 , userNumber : 22
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 145, roomNumber 2 , userNumber : 16
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 166, roomNumber 2 , userNumber : 23
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1172, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 172, roomNumber 2 , userNumber : 25
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 181, roomNumber 2 , userNumber : 28
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 178, roomNumber 2 , userNumber : 27
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 169, roomNumber 2 , userNumber : 24
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1168, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 184, roomNumber 2 , userNumber : 29
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 187, roomNumber 2 , userNumber : 30
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 190, roomNumber 2 , userNumber : 31
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 193, roomNumber 2 , userNumber : 32
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1164, sessionId : 0 
+
+6 월 4 일 13 시 14 분Local Address : 105.0.0.0   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 196, roomNumber 2 , userNumber : 33
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 199, roomNumber 2 , userNumber : 34
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 202, roomNumber 2 , userNumber : 35
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 205, roomNumber 2 , userNumber : 36
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1160, sessionId : 0 
+
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 208, roomNumber 2 , userNumber : 37
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 211, roomNumber 2 , userNumber : 38
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 214, roomNumber 2 , userNumber : 39
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 217, roomNumber 2 , userNumber : 40
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1156, sessionId : 0 
+
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 220, roomNumber 2 , userNumber : 41
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 229, roomNumber 2 , userNumber : 44
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 223, roomNumber 2 , userNumber : 42
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 226, roomNumber 2 , userNumber : 43
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 235, roomNumber 2 , userNumber : 46
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 232, roomNumber 2 , userNumber : 45
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 238, roomNumber 2 , userNumber : 47
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1152, sessionId : 0 
+
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 241, roomNumber 2 , userNumber : 48
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 244, roomNumber 2 , userNumber : 49
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 247, roomNumber 2 , userNumber : 50
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 250, roomNumber 2 , userNumber : 51
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 253, roomNumber 2 , userNumber : 52
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 256, roomNumber 2 , userNumber : 53
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 259, roomNumber 2 , userNumber : 54
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 262, roomNumber 2 , userNumber : 55
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 265, roomNumber 2 , userNumber : 56
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 268, roomNumber 2 , userNumber : 57
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 133, roomNumber 2 , userNumber : 12
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 277, roomNumber 2 , userNumber : 60
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 271, roomNumber 2 , userNumber : 58
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 280, roomNumber 2 , userNumber : 61
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 274, roomNumber 2 , userNumber : 59
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 175, roomNumber 2 , userNumber : 26
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 283, roomNumber 2 , userNumber : 62
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 286, roomNumber 2 , userNumber : 63
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 289, roomNumber 2 , userNumber : 64
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 292, roomNumber 2 , userNumber : 65
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 295, roomNumber 2 , userNumber : 66
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 298, roomNumber 2 , userNumber : 67
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Delete User not exist
+
+6 월 4 일 13 시 14 분T_NOTIFY_USE::  accountId : 99  roomNumber : 2  userNumber : -2
+6 월 4 일 13 시 14 분Local Address : 127.0.0.1   Remote Address : 127.0.0.1
+6 월 4 일 13 시 14 분IO_ACCEPT socket Number : 1148, sessionId : 0 
+
+6 월 4 일 13 시 14 분IsExistUser !! accountId : 99, roomNumber 2 , userNumber : 71
+6 월 4 일 13 시 14 분receive 0 byte
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 71 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분receive 0 byte
+
+6 월 4 일 13 시 14 분GET C_REQ_EXIT !! RoomNumber : 2 , UserNumber : 68 
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분Userdelete
+
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분GQCS Error 64
+6 월 4 일 13 시 14 분Server ExceptionProcess!!
+6 월 4 일 13 시 14 분Server ExceptionProcess!!

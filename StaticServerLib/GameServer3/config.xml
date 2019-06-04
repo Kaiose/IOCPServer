@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Server>
+  <LogInServer>
+    <IP>127.0.0.1</IP>
+    <Port>9100</Port>
+  </LogInServer>
+  <FirstGameServer>
+    <IP>127.0.0.1</IP>
+    <Port>9900</Port>
+  </FirstGameServer>
+  <SecondGameServer>
+    <IP>127.0.0.1</IP>
+    <Port>9800</Port>
+  </SecondGameServer>
+  <ThirdGameServer>
+    <IP>127.0.0.1</IP>
+    <Port>9700</Port>
+  </ThirdGameServer>
+<!--  <ChattingServer>
+    <IP>127.0.0.1</IP>
+    <Port>9300</Port>
+  </ChattingServer> -->
+  <CurrentServer>
+    <NAME>ThirdGameServer</NAME>
+    <NUMBER>3</NUMBER>
+    <IP>127.0.0.1</IP>
+    <Port>9700</Port>
+  </CurrentServer>
+  <Room>
+    <RoomNumber>7</RoomNumber>
+    <RoomNumber>8</RoomNumber>
+    <RoomNumber>9</RoomNumber>
+  </Room>
+  <PlotlyServer>
+    <IP>127.0.0.1</IP>
+    <Port>8000</Port>
+  </PlotlyServer>
+</Server>
+

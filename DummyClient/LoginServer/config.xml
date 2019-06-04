@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Server>
+  <LogInServer>
+    <IP>127.0.0.1</IP>
+    <Port>9100</Port>
+  </LogInServer>
+  <GameServer>
+    <IP>127.0.0.1</IP>
+    <Port>9200</Port>
+  </GameServer>
+  <ChattingServer>
+    <IP>127.0.0.1</IP>
+    <Port>9300</Port>
+  </ChattingServer>
+  <EchoServer>
+    <IP>127.0.0.1</IP>
+    <Port>9000</Port>
+  </EchoServer>
+</Server>

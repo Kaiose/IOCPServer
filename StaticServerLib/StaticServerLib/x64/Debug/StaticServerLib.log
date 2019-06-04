@@ -1,0 +1,110 @@
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(319): warning C4530: C++ 예외 처리기가 사용되었지만 해제 의미 체계가 활성화되지 않았습니다. /EHsc를 지정하십시오.
+  ContentsProcess.cpp
+  Database.cpp
+  Server.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(239): warning C4244: '초기화 중': '_Ty'에서 '_Ty1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(879): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<const _Kty,_Ty>::pair<unsigned __int64,Session*,0>(std::pair<unsigned __int64,Session *> &&) noexcept'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=int,
+              _Ty=Session *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(881): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<const _Kty,_Ty>::pair<unsigned __int64,Session*,0>(std::pair<unsigned __int64,Session *> &&) noexcept'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=int,
+              _Ty=Session *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\list(711): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<unsigned __int64,Session *>>(_Alloc &,_Objty *const ,std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const int,Session *>,std::_Default_allocator_traits<std::allocator<std::pair<const int,Session *>>>::void_pointer>>,
+              _Ty=std::pair<const int,Session *>,
+              _Objty=std::pair<const int,Session *>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\list(716): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<unsigned __int64,Session *>>(_Alloc &,_Objty *const ,std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<std::_List_node<std::pair<const int,Session *>,std::_Default_allocator_traits<std::allocator<std::pair<const int,Session *>>>::void_pointer>>,
+              _Ty=std::pair<const int,Session *>,
+              _Objty=std::pair<const int,Session *>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\list(947): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *std::_List_buy<_Ty,_Alloc>::_Buynode<std::pair<unsigned __int64,Session *>>(std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *,std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *,std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=std::pair<const int,Session *>,
+              _Alloc=std::allocator<std::pair<const int,Session *>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\list(950): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *std::_List_buy<_Ty,_Alloc>::_Buynode<std::pair<unsigned __int64,Session *>>(std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *,std::_List_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *,std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=std::pair<const int,Session *>,
+              _Alloc=std::allocator<std::pair<const int,Session *>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\list(916): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::list<std::pair<const _Kty,_Ty>,std::allocator<std::pair<const _Kty,_Ty>>>::_Insert<std::pair<unsigned __int64,Session *>>(std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<std::pair<const _Kty,_Ty>>>,std::_Iterator_base0>,std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=int,
+              _Ty=Session *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\list(917): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::list<std::pair<const _Kty,_Ty>,std::allocator<std::pair<const _Kty,_Ty>>>::_Insert<std::pair<unsigned __int64,Session *>>(std::_List_unchecked_const_iterator<std::_List_val<std::_List_simple_types<std::pair<const _Kty,_Ty>>>,std::_Iterator_base0>,std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=int,
+              _Ty=Session *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xhash(299): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::list<std::pair<const _Kty,_Ty>,std::allocator<std::pair<const _Kty,_Ty>>>::emplace_front<std::pair<unsigned __int64,Session *>>(std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=int,
+              _Ty=Session *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\unordered_map(304): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Umap_traits<_Kty,Session*,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<std::pair<unsigned __int64,Session *>>(std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=std::pair<const int,Session *>,
+              _Kty=int,
+              _Hasher=std::hash<int>,
+              _Keyeq=std::equal_to<int>,
+              _Alloc=std::allocator<std::pair<const int,Session *>>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\unordered_map(304): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::_Hash<std::_Umap_traits<_Kty,Session*,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::emplace<std::pair<unsigned __int64,Session *>>(std::pair<unsigned __int64,Session *> &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=std::pair<const int,Session *>,
+              _Kty=int,
+              _Hasher=std::hash<int>,
+              _Keyeq=std::equal_to<int>,
+              _Alloc=std::allocator<std::pair<const int,Session *>>
+          ]
+  c:\users\admin\desktop\졸업작품\그물형 서버\staticserverlib\staticserverlib\server\server.cpp(232): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::unordered_map<int,Session *,std::hash<int>,std::equal_to<_Kty>,std::allocator<_Ty>>::insert<std::pair<unsigned __int64,Session *>,void>(_Valty &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=std::pair<const int,Session *>,
+              _Kty=int,
+              _Valty=std::pair<unsigned __int64,Session *>
+          ]
+  c:\users\admin\desktop\졸업작품\그물형 서버\staticserverlib\staticserverlib\server\server.cpp(232): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,bool> std::unordered_map<int,Session *,std::hash<int>,std::equal_to<_Kty>,std::allocator<_Ty>>::insert<std::pair<unsigned __int64,Session *>,void>(_Valty &&)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=std::pair<const int,Session *>,
+              _Kty=int,
+              _Valty=std::pair<unsigned __int64,Session *>
+          ]
+  Session.cpp
+  Clock.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  코드를 생성하고 있습니다...
+  StaticServerLib.vcxproj -> C:\Users\admin\Desktop\졸업작품\그물형 서버\StaticServerLib\x64\Debug\StaticServerLib.lib
